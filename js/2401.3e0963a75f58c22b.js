@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2401],{2401:function(e,n,r){r.r(n);var t=r(85893);n.default=function(e){var n=e.color;return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("path",{d:"M1 9L5 5C3.4379 3.4379 2.5621 2.5621 1 1",stroke:n,strokeLinecap:"round",strokeLinejoin:"round"})})}}}]);

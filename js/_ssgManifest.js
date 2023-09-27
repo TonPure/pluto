@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/","/404","/[...slug]","/journal","/journal/[slug]","/journal/category/[slug]","/knowledge-base","/knowledge-base/[slug]","/personalize","/products/[slug]"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
